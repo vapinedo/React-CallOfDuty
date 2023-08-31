@@ -1,0 +1,20 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Price"
+        },
+        {
+            "id": 2,
+            "name": "Mac Tavish"
+        },
+        {
+            "id": 3,
+            "name": "Makarov"
+        },
+        {
+            "id": 4,
+            "name": "Urban Tracker"
+        }
+    ]
+}
